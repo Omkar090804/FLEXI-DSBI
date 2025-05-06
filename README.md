@@ -7,6 +7,8 @@ EDA and Training Through different ML Models ,
 Complete Power BI Dashboard ,
 Analysis of data using Dashboard
 
+Dash Board ...
+
 ![image](https://github.com/user-attachments/assets/9c868442-39fd-4a63-b498-b9ac3dcc3aa6)
 
 ![image](https://github.com/user-attachments/assets/07fec2ed-0f18-4d85-9ff3-0717a6f5bdc6)
