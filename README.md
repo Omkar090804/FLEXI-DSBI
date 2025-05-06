@@ -1,3 +1,3 @@
 # FLEXI-DSBI
 
-End to End Power BI Project
+Start to End Power BI Project
