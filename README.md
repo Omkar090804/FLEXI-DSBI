@@ -1,3 +1,3 @@
 # FLEXI-DSBI
 
-Front end for DSBI project
+End to End Power BI Project
